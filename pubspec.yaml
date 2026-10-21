@@ -15,7 +15,6 @@ workspace:
   - libs/windows/media_kit_libs_windows_audio
   - libs/windows/media_kit_libs_windows_video
   - media_kit
-  - media_kit_test
   - media_kit_video
   - video_player_media_kit
 
